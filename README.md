@@ -59,11 +59,20 @@ graph TD
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/92132db1-7431-4118-94c5-82644b351a4e" />
 
+## Demo Video 
+Video Link - [Demo](https://drive.google.com/drive/folders/1khO5Z29cvm5YgOVR-S61beP-3Wg1a1dk)
+
+## Presentation 
+PPT Link - [PPT](https://drive.google.com/drive/folders/1fTRBkRC-g62Nol-qG1CEuhmRR5Y_4V7y)
 
 ## Project Files
 📐 CAD Files — [Google Drive link](https://drive.google.com/drive/folders/1Ghx63GEvrWdhvsjdL0f3LoNjhmAbbQZF?usp=sharing)
 📡 Antenna Design — [Google Drive link](https://drive.google.com/drive/folders/1qPXDP5t2O03s7yiJq4HqOWixTVWuIKwu?usp=sharing)
 🔌 KiCad Files — [Google Drive link](https://drive.google.com/drive/folders/1HaP6uq5_J6CeXrYCBEnNkqeeh7BnDaaF?usp=sharing)
+
+## Future Scope 
+We aim to refine the design of the antenna to yield even better results and work on the circuitry to power the system .
+Furthermore we will get the helmet design 3D printed and prepare the final prototype of the same and connect the antenna to IPEX to SAM adapter to make it fully functional . 
 
 ## Team
 Team UniComm
